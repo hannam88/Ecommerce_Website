@@ -1,0 +1,47 @@
+SHOP EASE - IMAGE RESOURCE
+============================================================
+All website images are linked online. Use download_images.py to download them into this folder.
+
+home-banner-1.jpg
+Resource: Homepage banner / store
+URL: https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1600&q=85
+
+home-banner-2.jpg
+Resource: Homepage banner / electronics
+URL: https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1600&q=85
+
+home-banner-3.jpg
+Resource: Homepage banner / fashion
+URL: https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=1600&q=85
+
+classic-watch.jpg
+Resource: Classic Wrist Watch
+URL: https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1100&q=90
+
+running-shoes.jpg
+Resource: Urban Running Shoes
+URL: https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=85
+
+headphones.jpg
+Resource: Wireless Headphones
+URL: https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=700&q=85
+
+cotton-tshirt.jpg
+Resource: Premium Cotton T-Shirt
+URL: https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=700&q=85
+
+sunglasses.jpg
+Resource: Modern Sunglasses
+URL: https://images.unsplash.com/photo-1541101767792-f9b2b1c4f127?auto=format&fit=crop&w=700&q=85
+
+everyday-outfit.jpg
+Resource: Everyday Outfit
+URL: https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=700&q=85
+
+laptop.jpg
+Resource: Everyday Laptop
+URL: https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=700&q=85
+
+smart-watch.jpg
+Resource: Smart Watch
+URL: https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=700&q=85
